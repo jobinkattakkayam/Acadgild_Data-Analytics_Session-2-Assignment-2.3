@@ -13,7 +13,7 @@ SESSION 2 - INTRODUCTION TO R - Assignments 2.3
  
  ANSWERS : 
  
-# Acadgild-Dataanalytics-session3-Assignment1
+# Acadgild-Data-Analytics-session3-Assignment1
 DATA ANALYTICS WITH R, EXCEL AND TABLEAU SESSION 2 ASSIGNMENT 2.3      
 
 1. 
